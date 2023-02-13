@@ -4996,7 +4996,7 @@ hardhat-waffle@^0.0.1-security:
   resolved "https://registry.yarnpkg.com/hardhat-waffle/-/hardhat-waffle-0.0.1-security.tgz#f1c6d19746ff625fd116b13a59112eeaf1eaad27"
   integrity sha512-r/rQUfoXmWm2fHUB3lQ3nXeazX0ZPLMOfz3dlX3NdA3pd4MIpDWKmOCL9OOLi5h9ws9gzBs7SleGiEnQVO547A==
 
-hardhat@^2.8.3:
+hardhat@^2.12.7:
   version "2.12.7"
   resolved "https://registry.yarnpkg.com/hardhat/-/hardhat-2.12.7.tgz#d8de2dc32e9a2956d53cf26ef4cd5857e57a3138"
   integrity sha512-voWoN6zn5d8BOEaczSyK/1PyfdeOeI3SbGCFb36yCHTJUt6OIqLb+ZDX30VhA1UsYKzLqG7UnWl3fKJUuANc6A==
